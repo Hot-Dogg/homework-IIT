@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif;}
+header { background: #111111; color: white; text-align: center; padding: 50px; }
+footer { background: #111111; color: white; text-align: center; padding: 50px; }
+ul {list-style: none; }
+li {display: inline; }
+nav { background: gray; color: white; text-align: center; padding: 50px;}
+nav a { color: white; margin: 0 10px;}
+main { display: flex; }
+aside {text-align: center; width: 25%; background: #f0f0f0; padding: 10px; }
+section { flex: 1; padding: 10px; }
+audio { width: 100%; margin-top: 10px; }
+video { width: 30%; margin-top: 10px; }
